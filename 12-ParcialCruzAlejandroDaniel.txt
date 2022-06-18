@@ -14,11 +14,6 @@ function division(numero1, numero2){
     }
 }
 
-console.log(devuelveTriple(5));
-console.log(multiplicacion(5,5));
-console.log(division(5,5));
-
-
 /* Ejercicio 2 */
 
 let turista = {
